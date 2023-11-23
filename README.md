@@ -1,7 +1,7 @@
 # Stock Market Prediction Project
 
 ## Description
-This data analytics hackathon project, hosted by [Your College/University Name], involves using time series models like XGBoost (XGB) and LightGBM (LGBM) to predict stock market performance for a specific stock. The goal is to recommend Buy, Sell, or Hold strategies for High Net-worth Individuals (HNIs).
+This data analytics hackathon project, hosted by PES University, involves using time series models like XGBoost (XGB) and LightGBM (LGBM) to predict stock market performance for a specific stock. The goal is to recommend Buy, Sell, or Hold strategies for High Net-worth Individuals (HNIs).
 
 ## Evaluation Metrics
 - **Close Price Prediction**: Evaluated using Symmetric Mean Absolute Percentage Error (SMAPE).
